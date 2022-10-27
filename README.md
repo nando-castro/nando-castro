@@ -1,30 +1,33 @@
 <h1 align="center">Olá 👋, sou o Fernando e seja bem vindo ao meu perfil!</h1>
-<h3 align="center">Gosto de resolver problemas através da programação!</h3>
-
+<li align="left">Tenho 23 anos, moro em São Luís, no Maranhão.</li>
+<li align="left">Gosto de resolver problemas através da programação, pois as possibilidades são infinitas!</li>
+<li align="left">Atualmente estou cursando faculdade de Ciência e tecnologia com foco em Engenharia da Computação na UFMA.</li>
+<li align="left">Sou Desenvolvedor Web FullStack formado pelo bootcamp da Driven.</li>
+<li align="left">Também sou apaixonado por games, são parte do meu passatempo nas horas livres.</li>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nandocastro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
-<h3 align="left">Possuo habilidades com as seguintes ferramentas:</h3>
+<h3 align="left">Habilidades:</h3>
 <div align="left">
   <h4 align="left">Linguagens, frameworks e bibliotecas</h4>
+  <h5 align="left"> - Front-End</h5>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Cypress-04c38eCOPY?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></a>
+  <h5 align="left"> - Back-End</h5>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></a>
-  <p></p>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Cypress-04c38eCOPY?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="axios" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-010101?style=for-the-badge&logo=express&logoColor=white" alt="express" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-NGINX-099639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /></a>
-    <p></p>
   <h4 align="left">Bancos de dados e serviços de nuvem</h4>
     <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" /></a>
