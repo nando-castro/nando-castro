@@ -17,12 +17,15 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031" alt="angular" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Cypress-04c38eCOPY?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></a>
   <h5 align="left"> - Back-End</h5>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Spring-E95420?style=for-the-badge&logo=spring&logoColor=FFFFFF" alt="java" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=000000" alt="spring" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="axios" /></a>
