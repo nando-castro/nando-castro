@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, sou o Fernando e seja bem vindo ao meu perfil!</h1>
-<li align="left">Tenho 23 anos, moro em São Luís, no Maranhão.</li>
+<li align="left">Moro em São Luís, no Maranhão.</li>
 <li align="left">Gosto de resolver problemas através da programação, pois as possibilidades são infinitas!</li>
 <li align="left">Atualmente estou cursando faculdade de Ciência e tecnologia com foco em Engenharia da Computação na UFMA.</li>
 <li align="left">Sou Desenvolvedor Web FullStack formado pelo bootcamp da Driven.</li>
-<li align="left">Também sou apaixonado por games, são parte do meu passatempo nas horas livres.</li>
+<!-- <li align="left">Também sou apaixonado por games, são parte do meu passatempo nas horas livres.</li> -->
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nandocastro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -17,7 +17,9 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031" alt="angular" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=yellow" alt="vite" /></a>
+<!--   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031" alt="angular" /></a> -->
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Cypress-04c38eCOPY?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></a>
   <h5 align="left"> - Back-End</h5>
