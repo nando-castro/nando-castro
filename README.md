@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou o Fernando e seja bem vindo ao meu perfil!</h1>
 <li align="left">Moro em São Luís, no Maranhão.</li>
 <li align="left">Gosto de resolver problemas através da programação, pois as possibilidades são infinitas!</li>
-<li align="left">Atualmente estou cursando faculdade de Ciência e tecnologia com foco em Engenharia da Computação na UFMA.</li>
-<li align="left">Sou Desenvolvedor Web FullStack formado pelo bootcamp da Driven.</li>
+<li align="left">Atualmente sou Bacharel em Ciência e tecnologia e estudante de Engenharia da Computação pela UFMA </li>
+<li align="left">Sou Desenvolvedor Web FullStack.</li>
 <!-- <li align="left">Também sou apaixonado por games, são parte do meu passatempo nas horas livres.</li> -->
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
