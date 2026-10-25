@@ -8,6 +8,9 @@ Desenvolvo aplicações web conectando interfaces, APIs e bancos de dados para r
 
 <br>
 
+<a href="https://portfolio-fernandev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Visitar o portfólio de Fernando Castro">
+</a>
 <a href="https://www.linkedin.com/in/nandocastro/">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn de Fernando Castro">
 </a>
@@ -119,7 +122,7 @@ Repita para até três projetos.
 
 ### Vamos conversar sobre tecnologia e projetos?
 
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/nandocastro/) ou por [e-mail](mailto:sousa.fernandocastro@gmail.com).
+Conheça meu [portfólio](https://portfolio-fernandev.vercel.app/) e entre em contato pelo [LinkedIn](https://www.linkedin.com/in/nandocastro/) ou por [e-mail](mailto:sousa.fernandocastro@gmail.com).
 
 **`> build • learn • improve_`**
 
