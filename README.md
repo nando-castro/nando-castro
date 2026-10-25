@@ -1,68 +1,126 @@
-<h1 align="center">Olá 👋, sou o Fernando e seja bem vindo ao meu perfil!</h1>
-<li align="left">Moro em São Luís, no Maranhão.</li>
-<li align="left">Gosto de resolver problemas através da programação, pois as possibilidades são infinitas!</li>
-<li align="left">Bacharel em Ciência e tecnologia e estudante de Engenharia da Computação pela UFMA </li>
-<li align="left">Sou Desenvolvedor Web FullStack.</li>
-<!-- <li align="left">Também sou apaixonado por games, são parte do meu passatempo nas horas livres.</li> -->
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nandocastro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=sousa.fernandocastro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Habilidades:</h3>
-<div align="left">
-  <h4 align="left">Linguagens, frameworks e bibliotecas</h4>
-  <h5 align="left"> - Front-End</h5>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=yellow" alt="vite" /></a>
-<!--   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031" alt="angular" /></a> -->
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Cypress-04c38eCOPY?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></a>
-  <h5 align="left"> - Back-End</h5>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Java-E95420?style=for-the-badge&logo=java&logoColor=000000" alt="java" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=FFFFFF" alt="spring" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="axios" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-010101?style=for-the-badge&logo=express&logoColor=white" alt="express" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-NGINX-099639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /></a>
-  <h4 align="left">Bancos de dados e serviços de nuvem</h4>
-    <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=whit" alt="heroku" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /></a>
-  <h4 align="left">Demais ferramentas</h4>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /></a>
-  <p></p>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-WAKATIME-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="wakatime" /></a>
-  
+# &gt; Fernando Castro_
+
+### Full Stack Developer · TypeScript · React · Node.js
+
+Desenvolvo aplicações web conectando interfaces, APIs e bancos de dados para resolver problemas reais.
+
+<br>
+
+<a href="https://www.linkedin.com/in/nandocastro/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn de Fernando Castro">
+</a>
+<a href="mailto:sousa.fernandocastro@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Enviar e-mail para Fernando Castro">
+</a>
+<a href="https://github.com/nando-castro?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explorar meus repositórios">
+</a>
+
 </div>
 
-<h3 align="left"></h3>
+---
+
+## `> whoami`
+
+Sou desenvolvedor full stack, com foco no ecossistema **JavaScript e TypeScript**. Trabalho no desenvolvimento de interfaces, construção de APIs e integração com bancos de dados.
+
+- **Localização:** Brasil.
+- **Formação:** Bacharel em Ciência e Tecnologia pela UFMA.
+- **Estudos:** Engenharia da Computação pela UFMA.
+- **Interesses:** aplicações web, arquitetura de software e automação de processos.
+
+Gosto de transformar necessidades em soluções práticas, com atenção à experiência do usuário, à organização do código e à manutenção das aplicações.
+
+## `> tech_stack`
+
+### Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Styled_Components-111827?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" alt="Styled Components">
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring">
+  <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=2DDE98" alt="Prisma">
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis">
+</p>
+
+### Testes e infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest">
+  <img src="https://img.shields.io/badge/Cypress-111827?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress">
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/NGINX-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX">
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+## `> engineering`
+
+- Desenvolvimento de interfaces responsivas com React e Next.js.
+- Construção e consumo de APIs.
+- Integração de aplicações com bancos relacionais e não relacionais.
+- Implementação de testes automatizados.
+- Versionamento e organização de código para facilitar a manutenção.
+
+<!--
+PROJETOS EM DESTAQUE
+
+Quando selecionar seus projetos, adicione esta seção antes de tech_stack.
+Substitua os campos abaixo por informações e links reais.
+
+## `> featured_projects`
+
+### Nome do projeto
+
+Descrição curta: qual problema resolve e para quem foi desenvolvido.
+
+**Tecnologias:** React · TypeScript · Node.js · PostgreSQL
+
+**Destaques:** descreva duas ou três funcionalidades relevantes.
+
+[Repositório](URL_REAL) · [Demonstração](URL_REAL)
+
+Repita para até três projetos.
+-->
+
+---
+
 <div align="center">
-  <a href="https://github.com/nando-castro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nando-castro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-castro&layout=compact&langs_count=7&theme=tokyonight"/>
+
+### Vamos conversar sobre tecnologia e projetos?
+
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/nandocastro/) ou por [e-mail](mailto:sousa.fernandocastro@gmail.com).
+
+**`> build • learn • improve_`**
+
 </div>
